@@ -1,0 +1,49 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "island"
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": [
+      {
+        "key": "welcome$0a044ac4-d814-4911-bd72-4e9f72946fb5",
+        "name": "welcome",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "title": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Unknown"
+                  }
+                }
+              ]
+            },
+            "description": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Nisi et elit id cillum reprehenderit ullamco."
+                  }
+                }
+              ]
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
